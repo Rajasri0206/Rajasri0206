@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Rajasri
+
+### M.Tech Computer Science Engineering Student | AI & Generative AI
+
+I'm interested in **Artificial Intelligence, Generative AI, RAG, Machine Learning, and Software Development.**
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasri0206\&show_icons=true\&rank_icon=percentile)
+
 
 <!--
 **Rajasri0206/Rajasri0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasri0206&show_icons=true&rank_icon=percentile)
