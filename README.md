@@ -6,8 +6,7 @@ I'm interested in **Artificial Intelligence, Generative AI, RAG, Machine Learnin
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasri0206&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajasri0206&show_icons=true&rank_icon=percentile)
 <!--
 **Rajasri0206/Rajasri0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
